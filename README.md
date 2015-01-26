@@ -2,11 +2,11 @@
 
 Out of all the issues we spoke about when we broke into our groups, which was plenty and varied and possibly touched upon later in this post, was the ultimate agreement that there was needed a single tool, *or aid if you will*, to collate everything into a legible whole. 
 
-
 ######A visual tool,  a snapshot, something to indicate simply all that data found in the spreadsheets; of which are many.
 
-
 Before I delve further into this “tool”, let’s touch on a couple of the issues we spoke about.
+
+===================
 
 ######Improving the quality of items being recycled as contaminated waste was a big problem which contributed to money and labour loss.
 Our suggested solution was a simple “**20 Questions**” game that was presented as an app to help those that are unsure of the items they were wanting to recycle. Simple load the app, answer a series of “Yes” or “No” questions about the item; eg. “Is it glass?” and by the end or before the end of 20 questions, the item would have been uniquely identified and shown the appropriate method of recycling. *Mathematically speaking, 20 questions is enough to uniquely identify 1 million items.*
